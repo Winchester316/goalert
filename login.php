@@ -44,11 +44,7 @@ if (isset($_SESSION['uid']) && ($_SESSION['role'] == '1')) {
                 </main>
             </div>
         </div>
-
-        <!-- Additional Scripts -->
-        <script src="shp.min.js" defer></script>
     </body>
-
     </html>
 
 <?php
