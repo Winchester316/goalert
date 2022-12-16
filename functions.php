@@ -7,3 +7,11 @@ function admin($pdo)
     $adminID = $checkAdminID->fetch();
     return $adminID['uid'];
 }
+
+function sanitize($input)
+{
+    $input = htmlspecialchars($input);
+    $input = stripslashes($input);
+    $input = trim($input);
+    return $input;
+}
