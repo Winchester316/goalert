@@ -101,9 +101,51 @@ if (isset($_SESSION['uid']) && ($_SESSION['role'] == '2')) {
                 </div>
             </div>
         </div>
-
+        <script src="jquery.min.js"></script>
         <!-- AJAX Remove Center -->
-        <script src="js/ec.min.js" defer></script>
+        <script defer>
+$(document).ready(function () {
+  function showCenterList() {
+    $.ajax({
+      type: "POST",
+      url: "process/show_centers.php",
+      cache: false,
+      dataType: "json",
+      success: function (response) {
+        $(".show-centers").html(response.template);
+      },
+      error: function (xhr, status, error) {
+        alert(xhr.responseText);
+      },
+    });
+  }
+  showCenterList(); // Execute the function to make the initial AJAX request
+
+  $(".remove-center").click(function (e) {
+    var formData = $(this).closest("form").serialize();
+    console.log("testing");
+    e.stopPropagation();
+    e.preventDefault();
+    $.ajax({
+      type: "POST",
+      url: "process/remove_center.php",
+      cache: false,
+      data: formData,
+      dataType: "json",
+      success: function (response) {
+        if (response.code == "200") {
+          alert(response.message);
+          showCenterList(); // Update the list of centers
+        }
+      },
+      error: function (xhr, status, error) {
+        alert(xhr.responseText);
+      },
+    });
+  });
+});
+
+</script>
 
     </body>
 
