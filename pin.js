@@ -1097,9 +1097,6 @@ addMarker = google.maps.event.addListener(polygonPath, "click", function (e) {
     let alert_message = role == "2" ? brgy : "Balungao, Pangasinan";
     alert("Restricted Area!\nPin only within `${alert_message}` area");
   }
-  if (google && google.maps) {
-    resetInputs();
-  }
 });
 bindMarkerinfo = function (e) {
   google.maps.event.addListener(e, "click", function (e) {
@@ -1120,22 +1117,26 @@ bindMarkerEvents = function (e) {
 removeMarker = function (e, n) {
   e.setMap(null), delete markers[n];
 };
-resetInputs = function () {
-  document.querySelector("#pin_type").value = "";
-  document.querySelector("#pin_magnitude").value = "";
-  document.querySelector("#pin_level").value = "";
-  document.querySelector("#pin_affected").value = "";
-  let disaster_type = document.querySelector("#pin_type");
-  disaster_type.addEventListener("change", function () {
+google.maps.event.addListener(addMarker, "domready", function () {
+  resetInputs();
+});
+
+function resetInputs() {
+  $("#pin_type").val("");
+  $("#pin_magnitude").val("");
+  $("#pin_level").val("");
+  $("#pin_affected").val("");
+  let disaster_type = $("#pin_type");
+  disaster_type.on("change", function () {
     switch (this.value) {
       case "Earthquake":
-        document.querySelector("#pin_level").style.display = "none";
-        document.querySelector("#pin_magnitude").style.display = "block";
+        $("#pin_level").style.display = "none";
+        $("#pin_magnitude").style.display = "block";
         break;
       default:
-        document.querySelector("#pin_level").style.display = "block";
-        document.querySelector("#pin_magnitude").style.display = "none";
+        $("#pin_level").style.display = "block";
+        $("#pin_magnitude").style.display = "none";
         break;
     }
   });
-};
+}
