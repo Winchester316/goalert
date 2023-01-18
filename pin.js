@@ -1117,7 +1117,7 @@ bindMarkerEvents = function (e) {
 removeMarker = function (e, n) {
   e.setMap(null), delete markers[n];
 };
-google.maps.event.addListener(addMarker, "domready", function () {
+google.maps.event.addListener(marker, "domready", function () {
   resetInputs();
 });
 
