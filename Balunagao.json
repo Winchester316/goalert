@@ -1,0 +1,1465 @@
+
+{
+    "type": "FeatureCollection",
+    "name": "Balungao",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.1_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "AngayanNorte",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6955,
+                                15.8912
+                            ],
+                            [
+                                120.6925,
+                                15.8997
+                            ],
+                            [
+                                120.6879,
+                                15.9055
+                            ],
+                            [
+                                120.6914,
+                                15.9208
+                            ],
+                            [
+                                120.6937,
+                                15.9236
+                            ],
+                            [
+                                120.6901,
+                                15.9348
+                            ],
+                            [
+                                120.6989,
+                                15.9361
+                            ],
+                            [
+                                120.7001,
+                                15.9282
+                            ],
+                            [
+                                120.6959,
+                                15.9119
+                            ],
+                            [
+                                120.6989,
+                                15.9027
+                            ],
+                            [
+                                120.6996,
+                                15.8918
+                            ],
+                            [
+                                120.6955,
+                                15.8912
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.2_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "AngayanSur",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6894,
+                                15.9126
+                            ],
+                            [
+                                120.6879,
+                                15.9055
+                            ],
+                            [
+                                120.6925,
+                                15.8997
+                            ],
+                            [
+                                120.6955,
+                                15.8912
+                            ],
+                            [
+                                120.6932,
+                                15.8825
+                            ],
+                            [
+                                120.6885,
+                                15.8817
+                            ],
+                            [
+                                120.6872,
+                                15.8896
+                            ],
+                            [
+                                120.6883,
+                                15.8949
+                            ],
+                            [
+                                120.6825,
+                                15.9077
+                            ],
+                            [
+                                120.6774,
+                                15.9149
+                            ],
+                            [
+                                120.6829,
+                                15.9125
+                            ],
+                            [
+                                120.6894,
+                                15.9126
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.3_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Capulaan",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6581,
+                                15.9095
+                            ],
+                            [
+                                120.6525,
+                                15.9067
+                            ],
+                            [
+                                120.6512,
+                                15.9043
+                            ],
+                            [
+                                120.6495,
+                                15.91
+                            ],
+                            [
+                                120.6538,
+                                15.9204
+                            ],
+                            [
+                                120.6636,
+                                15.9301
+                            ],
+                            [
+                                120.6683,
+                                15.9309
+                            ],
+                            [
+                                120.6714,
+                                15.9169
+                            ],
+                            [
+                                120.6667,
+                                15.9155
+                            ],
+                            [
+                                120.6581,
+                                15.9095
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.4_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Esmeralda",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6955,
+                                15.8912
+                            ],
+                            [
+                                120.73,
+                                15.8931
+                            ],
+                            [
+                                120.7419,
+                                15.8617
+                            ],
+                            [
+                                120.7304,
+                                15.8624
+                            ],
+                            [
+                                120.7188,
+                                15.8672
+                            ],
+                            [
+                                120.7166,
+                                15.8664
+                            ],
+                            [
+                                120.717,
+                                15.8636
+                            ],
+                            [
+                                120.7116,
+                                15.8613
+                            ],
+                            [
+                                120.7084,
+                                15.8616
+                            ],
+                            [
+                                120.7058,
+                                15.8622
+                            ],
+                            [
+                                120.7051,
+                                15.8681
+                            ],
+                            [
+                                120.6885,
+                                15.8707
+                            ],
+                            [
+                                120.6885,
+                                15.8817
+                            ],
+                            [
+                                120.6932,
+                                15.8825
+                            ],
+                            [
+                                120.6955,
+                                15.8912
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.5_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Kita-Kita",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6512,
+                                15.9043
+                            ],
+                            [
+                                120.6525,
+                                15.9067
+                            ],
+                            [
+                                120.6581,
+                                15.9095
+                            ],
+                            [
+                                120.6628,
+                                15.9018
+                            ],
+                            [
+                                120.6652,
+                                15.8942
+                            ],
+                            [
+                                120.6659,
+                                15.8794
+                            ],
+                            [
+                                120.6609,
+                                15.8746
+                            ],
+                            [
+                                120.6512,
+                                15.9043
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.6_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Mabini",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.7357,
+                                15.8504
+                            ],
+                            [
+                                120.7194,
+                                15.8527
+                            ],
+                            [
+                                120.6996,
+                                15.8462
+                            ],
+                            [
+                                120.6892,
+                                15.8452
+                            ],
+                            [
+                                120.6798,
+                                15.8652
+                            ],
+                            [
+                                120.6807,
+                                15.872
+                            ],
+                            [
+                                120.7051,
+                                15.8681
+                            ],
+                            [
+                                120.7058,
+                                15.8622
+                            ],
+                            [
+                                120.7084,
+                                15.8616
+                            ],
+                            [
+                                120.7116,
+                                15.8613
+                            ],
+                            [
+                                120.717,
+                                15.8636
+                            ],
+                            [
+                                120.7166,
+                                15.8664
+                            ],
+                            [
+                                120.7188,
+                                15.8672
+                            ],
+                            [
+                                120.7304,
+                                15.8624
+                            ],
+                            [
+                                120.7419,
+                                15.8617
+                            ],
+                            [
+                                120.745,
+                                15.8539
+                            ],
+                            [
+                                120.7357,
+                                15.8504
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.7_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Mauban",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.73,
+                                15.8931
+                            ],
+                            [
+                                120.71,
+                                15.892
+                            ],
+                            [
+                                120.7069,
+                                15.9065
+                            ],
+                            [
+                                120.7084,
+                                15.9078
+                            ],
+                            [
+                                120.7133,
+                                15.9068
+                            ],
+                            [
+                                120.7276,
+                                15.9
+                            ],
+                            [
+                                120.73,
+                                15.8931
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.8_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Poblacion",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6581,
+                                15.9095
+                            ],
+                            [
+                                120.6621,
+                                15.9122
+                            ],
+                            [
+                                120.6685,
+                                15.9115
+                            ],
+                            [
+                                120.6684,
+                                15.9037
+                            ],
+                            [
+                                120.6739,
+                                15.8805
+                            ],
+                            [
+                                120.6661,
+                                15.8845
+                            ],
+                            [
+                                120.6628,
+                                15.9018
+                            ],
+                            [
+                                120.6581,
+                                15.9095
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.9_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Pugaro",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6621,
+                                15.9122
+                            ],
+                            [
+                                120.6714,
+                                15.9169
+                            ],
+                            [
+                                120.6761,
+                                15.8897
+                            ],
+                            [
+                                120.6799,
+                                15.8866
+                            ],
+                            [
+                                120.6824,
+                                15.887
+                            ],
+                            [
+                                120.6807,
+                                15.872
+                            ],
+                            [
+                                120.6738,
+                                15.8747
+                            ],
+                            [
+                                120.6741,
+                                15.8833
+                            ],
+                            [
+                                120.6692,
+                                15.8994
+                            ],
+                            [
+                                120.6685,
+                                15.9115
+                            ],
+                            [
+                                120.6621,
+                                15.9122
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.10_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "Rajal",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6996,
+                                15.8918
+                            ],
+                            [
+                                120.6989,
+                                15.9027
+                            ],
+                            [
+                                120.6962,
+                                15.9086
+                            ],
+                            [
+                                120.6958,
+                                15.9141
+                            ],
+                            [
+                                120.7001,
+                                15.9282
+                            ],
+                            [
+                                120.7048,
+                                15.9278
+                            ],
+                            [
+                                120.706,
+                                15.9274
+                            ],
+                            [
+                                120.7064,
+                                15.9186
+                            ],
+                            [
+                                120.7098,
+                                15.9174
+                            ],
+                            [
+                                120.7098,
+                                15.9122
+                            ],
+                            [
+                                120.7068,
+                                15.9046
+                            ],
+                            [
+                                120.71,
+                                15.892
+                            ],
+                            [
+                                120.6996,
+                                15.8918
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.11_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanAndres",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6892,
+                                15.8452
+                            ],
+                            [
+                                120.6807,
+                                15.8457
+                            ],
+                            [
+                                120.6781,
+                                15.8528
+                            ],
+                            [
+                                120.6634,
+                                15.8695
+                            ],
+                            [
+                                120.6609,
+                                15.8746
+                            ],
+                            [
+                                120.6659,
+                                15.8794
+                            ],
+                            [
+                                120.6653,
+                                15.8862
+                            ],
+                            [
+                                120.6739,
+                                15.8805
+                            ],
+                            [
+                                120.6738,
+                                15.8747
+                            ],
+                            [
+                                120.6807,
+                                15.872
+                            ],
+                            [
+                                120.6798,
+                                15.8652
+                            ],
+                            [
+                                120.6892,
+                                15.8452
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.12_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanAurelio1st",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6774,
+                                15.9149
+                            ],
+                            [
+                                120.6801,
+                                15.9085
+                            ],
+                            [
+                                120.6826,
+                                15.89
+                            ],
+                            [
+                                120.6824,
+                                15.887
+                            ],
+                            [
+                                120.6799,
+                                15.8866
+                            ],
+                            [
+                                120.6761,
+                                15.8897
+                            ],
+                            [
+                                120.6714,
+                                15.9169
+                            ],
+                            [
+                                120.6771,
+                                15.9178
+                            ],
+                            [
+                                120.6774,
+                                15.9149
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.13_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanAurelio2nd",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6791,
+                                15.9118
+                            ],
+                            [
+                                120.6825,
+                                15.9077
+                            ],
+                            [
+                                120.6883,
+                                15.8949
+                            ],
+                            [
+                                120.6872,
+                                15.8896
+                            ],
+                            [
+                                120.6885,
+                                15.8707
+                            ],
+                            [
+                                120.6807,
+                                15.872
+                            ],
+                            [
+                                120.6826,
+                                15.89
+                            ],
+                            [
+                                120.6791,
+                                15.9118
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.14_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanAurelio3rd",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6914,
+                                15.9208
+                            ],
+                            [
+                                120.6894,
+                                15.9126
+                            ],
+                            [
+                                120.6829,
+                                15.9125
+                            ],
+                            [
+                                120.6774,
+                                15.9149
+                            ],
+                            [
+                                120.6771,
+                                15.9178
+                            ],
+                            [
+                                120.6835,
+                                15.9184
+                            ],
+                            [
+                                120.6857,
+                                15.9206
+                            ],
+                            [
+                                120.6914,
+                                15.9208
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.15_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanJoaquin",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6989,
+                                15.9361
+                            ],
+                            [
+                                120.683,
+                                15.935
+                            ],
+                            [
+                                120.6817,
+                                15.9498
+                            ],
+                            [
+                                120.6876,
+                                15.9481
+                            ],
+                            [
+                                120.6911,
+                                15.9446
+                            ],
+                            [
+                                120.6997,
+                                15.946
+                            ],
+                            [
+                                120.7101,
+                                15.9433
+                            ],
+                            [
+                                120.7171,
+                                15.9467
+                            ],
+                            [
+                                120.7174,
+                                15.9434
+                            ],
+                            [
+                                120.7198,
+                                15.9434
+                            ],
+                            [
+                                120.7208,
+                                15.932
+                            ],
+                            [
+                                120.7126,
+                                15.9333
+                            ],
+                            [
+                                120.7096,
+                                15.9354
+                            ],
+                            [
+                                120.6989,
+                                15.9361
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.16_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanJulian",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6714,
+                                15.9169
+                            ],
+                            [
+                                120.6681,
+                                15.9328
+                            ],
+                            [
+                                120.6638,
+                                15.9361
+                            ],
+                            [
+                                120.6625,
+                                15.9432
+                            ],
+                            [
+                                120.6588,
+                                15.9471
+                            ],
+                            [
+                                120.6668,
+                                15.9496
+                            ],
+                            [
+                                120.6735,
+                                15.9489
+                            ],
+                            [
+                                120.6792,
+                                15.9511
+                            ],
+                            [
+                                120.6821,
+                                15.9501
+                            ],
+                            [
+                                120.6828,
+                                15.9329
+                            ],
+                            [
+                                120.6766,
+                                15.9196
+                            ],
+                            [
+                                120.6714,
+                                15.9169
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.17_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanLeon",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.7001,
+                                15.9282
+                            ],
+                            [
+                                120.6995,
+                                15.9364
+                            ],
+                            [
+                                120.7096,
+                                15.9354
+                            ],
+                            [
+                                120.7126,
+                                15.9333
+                            ],
+                            [
+                                120.7208,
+                                15.932
+                            ],
+                            [
+                                120.7237,
+                                15.9095
+                            ],
+                            [
+                                120.7276,
+                                15.9
+                            ],
+                            [
+                                120.7084,
+                                15.9078
+                            ],
+                            [
+                                120.7098,
+                                15.9174
+                            ],
+                            [
+                                120.7064,
+                                15.9186
+                            ],
+                            [
+                                120.706,
+                                15.9274
+                            ],
+                            [
+                                120.7001,
+                                15.9282
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.18_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanMarcelino",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.662,
+                                15.9439
+                            ],
+                            [
+                                120.6638,
+                                15.9361
+                            ],
+                            [
+                                120.6517,
+                                15.9308
+                            ],
+                            [
+                                120.6468,
+                                15.9236
+                            ],
+                            [
+                                120.6439,
+                                15.933
+                            ],
+                            [
+                                120.6523,
+                                15.9382
+                            ],
+                            [
+                                120.6576,
+                                15.9395
+                            ],
+                            [
+                                120.662,
+                                15.9439
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.19_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanMiguel",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6683,
+                                15.9309
+                            ],
+                            [
+                                120.6636,
+                                15.9301
+                            ],
+                            [
+                                120.6538,
+                                15.9204
+                            ],
+                            [
+                                120.6495,
+                                15.91
+                            ],
+                            [
+                                120.6468,
+                                15.9236
+                            ],
+                            [
+                                120.6486,
+                                15.9278
+                            ],
+                            [
+                                120.6561,
+                                15.9334
+                            ],
+                            [
+                                120.6638,
+                                15.9361
+                            ],
+                            [
+                                120.6681,
+                                15.9328
+                            ],
+                            [
+                                120.6683,
+                                15.9309
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "GID_3": "PHL.61.7.20_1",
+                "GID_0": "PHL",
+                "COUNTRY": "Philippines",
+                "GID_1": "PHL.61_1",
+                "NAME_1": "Pangasinan",
+                "NL_NAME_1": "NA",
+                "GID_2": "PHL.61.7_1",
+                "NAME_2": "Balungao",
+                "NL_NAME_2": "NA",
+                "NAME_3": "SanRaymundo",
+                "VARNAME_3": "NA",
+                "NL_NAME_3": "NA",
+                "TYPE_3": "Barangay",
+                "ENGTYPE_3": "Village",
+                "CC_3": "NA",
+                "HASC_3": "NA"
+            },
+            "geometry": {
+                "type": "MultiPolygon",
+                "coordinates": [
+                    [
+                        [
+                            [
+                                120.6901,
+                                15.9348
+                            ],
+                            [
+                                120.6937,
+                                15.9236
+                            ],
+                            [
+                                120.6914,
+                                15.9208
+                            ],
+                            [
+                                120.6732,
+                                15.9172
+                            ],
+                            [
+                                120.6766,
+                                15.9196
+                            ],
+                            [
+                                120.683,
+                                15.935
+                            ],
+                            [
+                                120.6901,
+                                15.9348
+                            ]
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
