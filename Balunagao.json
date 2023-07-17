@@ -1,33 +1,11 @@
 
 {
     "type": "FeatureCollection",
-    "name": "Balungao",
-    "crs": {
-        "type": "name",
-        "properties": {
-            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
-        }
-    },
     "features": [
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.1_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "AngayanNorte",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Angayan Norte"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -90,22 +68,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.2_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "AngayanSur",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Angayan Sur"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -168,22 +131,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.3_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Capulaan",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Capulaan"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -238,22 +186,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.4_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Esmeralda",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Esmeralda"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -328,22 +261,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.5_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Kita-Kita",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Kita-Kita"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -390,22 +308,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.6_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Mabini",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Mabini"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -488,22 +391,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.7_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Mauban",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Mauban"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -546,22 +434,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.8_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Poblacion",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Poblacion"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -608,22 +481,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.9_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Pugaro",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Pugaro"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -682,22 +540,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.10_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "Rajal",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "Rajal"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -764,22 +607,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.11_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanAndres",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Andres"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -842,22 +670,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.12_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanAurelio1st",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Aurelio 1st"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -908,22 +721,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.13_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanAurelio2nd",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Aurelio 2nd"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -970,22 +768,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.14_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanAurelio3rd",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Aurelio 3rd"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1032,22 +815,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.15_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanJoaquin",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Joaquin"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1118,22 +886,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.16_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanJulian",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Julian"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1196,22 +949,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.17_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanLeon",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Leon"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1274,22 +1012,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.18_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanMarcelino",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Marcelino"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1336,22 +1059,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.19_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanMiguel",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Miguel"
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1406,22 +1114,7 @@
         {
             "type": "Feature",
             "properties": {
-                "GID_3": "PHL.61.7.20_1",
-                "GID_0": "PHL",
-                "COUNTRY": "Philippines",
-                "GID_1": "PHL.61_1",
-                "NAME_1": "Pangasinan",
-                "NL_NAME_1": "NA",
-                "GID_2": "PHL.61.7_1",
-                "NAME_2": "Balungao",
-                "NL_NAME_2": "NA",
-                "NAME_3": "SanRaymundo",
-                "VARNAME_3": "NA",
-                "NL_NAME_3": "NA",
-                "TYPE_3": "Barangay",
-                "ENGTYPE_3": "Village",
-                "CC_3": "NA",
-                "HASC_3": "NA"
+                "name": "San Raymundo"
             },
             "geometry": {
                 "type": "MultiPolygon",
